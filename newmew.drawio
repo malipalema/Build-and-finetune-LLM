@@ -535,7 +535,13 @@
         <mxCell id="7zowAMhVwT-hZxV041S5-132" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;" vertex="1" parent="TOUegs6FuvzjUtlbZ1zc-102">
           <mxGeometry x="704" y="411" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="CT22DMvGcDa_Don4qREr-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="TOUegs6FuvzjUtlbZ1zc-1" source="ibGXdJ0TtnsRCjGJKrD--3" target="TOUegs6FuvzjUtlbZ1zc-121" edge="1">
+        <mxCell id="7zowAMhVwT-hZxV041S5-141" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.926;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.417;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TOUegs6FuvzjUtlbZ1zc-102" source="7zowAMhVwT-hZxV041S5-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723.9444135630906" y="498" as="sourcePoint" />
+            <mxPoint x="723.1999999999998" y="698.8800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CT22DMvGcDa_Don4qREr-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TOUegs6FuvzjUtlbZ1zc-1" target="TOUegs6FuvzjUtlbZ1zc-121" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="510" />
@@ -543,7 +549,7 @@
               <mxPoint x="1012" y="600" />
               <mxPoint x="1316" y="600" />
             </Array>
-            <mxPoint x="770" y="510" as="sourcePoint" />
+            <mxPoint x="761" y="510" as="sourcePoint" />
             <mxPoint x="1426" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
